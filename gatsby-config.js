@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `That blog MadeByCollins`,
+    title: `Thoughts by Collins`,
     author: `Collins Zimba`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://www.madebycollins.com/`,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Thoughts by Collins`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
