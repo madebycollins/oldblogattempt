@@ -3,7 +3,7 @@ module.exports = {
     title: `That blog MadeByCollins`,
     author: `Collins Zimba`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://www.madebycollins.com/`,
     social: {
       twitter: `MadeByCollins`,
     },
